@@ -77,7 +77,7 @@
     },
     "h5" : {
         "router" : {
-            "mode" : "hash",
+            "mode" : "history",
             "base" : "/mobile/"
         },
         "title" : "ecshop",

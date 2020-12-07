@@ -6,7 +6,16 @@
 				"navigationBarTitleText": "ecshop"
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/catalog/catalog",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "ecshop",

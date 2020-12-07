@@ -4,6 +4,8 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		
+		<navigator url="../catalog/catalog">goto catalog</navigator>
 	</view>
 </template>
 
